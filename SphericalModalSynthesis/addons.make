@@ -1,4 +1,0 @@
-ofxDabBase
-ofxDabOsc
-ofxDatGui
-ofxMidi

@@ -10,16 +10,16 @@
 
 ### Installation
 
-* ### create conda environment
+* **create conda environment**
   conda create --name ima2024 python=3.10
 
-* ### activate conda environment
+* **activate conda environment**
   conda activate ima2024
 
-* ### add conda forge as additional default channel 
+* **add conda forge as additional default channel** 
   conda config --add channels conda-forge
 
-* ### install python packages using conda
+* **install python packages using conda**
   conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 -c pytorch
 
   conda install spyder
@@ -34,7 +34,7 @@
   conda install pyqtgraph
   conda install pyopengl
 
-* ### install python packages using pip
+* **install python packages using pip**
   pip install einops
   pip install einops-ext
   pip install simpleaudio
@@ -43,7 +43,7 @@
   pip install fbx-2020.3.7-cp310-none-win_amd64.whl
   pip install fbx-2020.3.7-cp310-cp310-macosx_10_15_universal2.whl (macOS)
   
-* ### Spherical Soundfile Player 
+* **Spherical Soundfile Player** 
 * <a href="https://openframeworks.cc/">Open Frameworks 0.12.0</a>
 * <a href="https://www.mega-nerd.com/libsndfile/">libsndfile</a>
 
@@ -67,5 +67,5 @@ This work is licensed under Creative Commons Attribution-Noncommercial 4.0 Inter
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ## Autoren
-* <a href="https://github.com/mirzoevau">Daniel Bisig</a>
-* <a href="https://github.com/mirzoevau">Ephraim Wegner</a>
+* <a href="https://github.com/bisnad">Daniel Bisig</a>
+* <a href="https://github.com/ewgnr">Ephraim Wegner</a>

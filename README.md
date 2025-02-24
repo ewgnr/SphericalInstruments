@@ -11,39 +11,43 @@
 ### Installation
 
 * **create conda environment**
-  conda create --name ima2024 python=3.10
+  
+* conda create --name ima2024 python=3.10
 
 * **activate conda environment**
-  conda activate ima2024
+  
+* conda activate ima2024
 
-* **add conda forge as additional default channel** 
-  conda config --add channels conda-forge
+* **add conda forge as additional default channel**
+  
+* conda config --add channels conda-forge
 
 * **install python packages using conda**
-  conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 -c pytorch
-
-  conda install spyder
-  conda install scikit-learn
-  conda install scipy
-  conda install librosa
-  conda install python-sounddevice
-  conda install pysoundfile
-  conda install transforms3d
-  conda install pandas
-  conda install matplotlib
-  conda install pyqtgraph
-  conda install pyopengl
+  
+* conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 -c pytorch
+* conda install spyder
+* conda install scikit-learn
+* conda install scipy
+* conda install librosa
+* conda install python-sounddevice
+* conda install pysoundfile
+* conda install transforms3d
+* conda install pandas
+* conda install matplotlib
+* conda install pyqtgraph
+* conda install pyopengl
 
 * **install python packages using pip**
-  pip install einops
-  pip install einops-ext
-  pip install simpleaudio
-  pip install python-osc
+* pip install einops
+* pip install einops-ext
+* pip install simpleaudio
+* pip install python-osc
 
-  pip install fbx-2020.3.7-cp310-none-win_amd64.whl
-  pip install fbx-2020.3.7-cp310-cp310-macosx_10_15_universal2.whl (macOS)
+* pip install fbx-2020.3.7-cp310-none-win_amd64.whl
+* pip install fbx-2020.3.7-cp310-cp310-macosx_10_15_universal2.whl (macOS)
   
-* **Spherical Soundfile Player** 
+* **Spherical Soundfile Player**
+  
 * <a href="https://openframeworks.cc/">Open Frameworks 0.12.0</a>
 * <a href="https://www.mega-nerd.com/libsndfile/">libsndfile</a>
 

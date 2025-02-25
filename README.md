@@ -2,13 +2,13 @@
 
 "Spherical Instruments”, eine Plattform für performative Arbeiten die zeitgenössischen Tanz, elektronische Musik und generative KI miteinander verbindet.
 
-## Inhaltsverzeichnis
+## Table of Contents
 
-* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#installation">Installation</a>
-* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#lizenz">Lizenz</a>
-* <a href="https://github.com/ewgnr/CollidingObjects/blob/main/README.md#autorinnen-und-autoren">Autoren</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##installation">Installation</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##License">License</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##Authors">Authors</a>
 
-### Installation
+## Installation
 
 * **create conda environment**
   
@@ -67,7 +67,7 @@
 * <a href="https://openframeworks.cc/">Open Frameworks 0.12.0</a>
 * <a href="https://www.mega-nerd.com/libsndfile/">libsndfile</a>
 
-## Lizenz
+## License
 
 <a href="https://creativecommons.org/licenses/by/4.0//">CC Licence 4.0 International</a>
 
@@ -86,6 +86,6 @@ This work is licensed under Creative Commons Attribution-Noncommercial 4.0 Inter
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-## Autoren
+## Authors
 * <a href="https://github.com/bisnad">Daniel Bisig</a>
 * <a href="https://github.com/ewgnr">Ephraim Wegner</a>

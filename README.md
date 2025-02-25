@@ -64,7 +64,7 @@
   
 * **Spherical Soundfile Player**
   
-* <a href="https://openframeworks.cc/">Open Frameworks 0.12.0</a>
+* <a href="https://openframeworks.cc/">Open Frameworks</a>
 * <a href="https://www.mega-nerd.com/libsndfile/">libsndfile</a>
 
 ## License

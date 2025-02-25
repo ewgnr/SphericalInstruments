@@ -1,6 +1,6 @@
 # Spherical Instruments 
 
-"Spherical Instruments”, eine Plattform für performative Arbeiten die zeitgenössischen Tanz, elektronische Musik und generative KI miteinander verbindet.
+‘Spherical Instruments’ is a platform for performative works that combine contemporary dance, electronic music and generative AI.
 
 ## Table of Contents
 

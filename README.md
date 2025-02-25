@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##installation">Installation</a>
-* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##License">License</a>
-* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md##Authors">Authors</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md#installation">Installation</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md#License">License</a>
+* <a href="https://github.com/ewgnr/SphericalInstruments/blob/main/README.md#Authors">Authors</a>
 
 ## Installation
 

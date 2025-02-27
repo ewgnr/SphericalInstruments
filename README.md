@@ -1,4 +1,4 @@
-# Spherical Instruments 
+# Sonosphere 
 
 ‘Spherical Instruments’ is a platform for performative works that combine contemporary dance, electronic music and generative AI.
 

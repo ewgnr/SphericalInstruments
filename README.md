@@ -1,6 +1,21 @@
 # Sonosphere 
 
-‘Spherical Instruments’ is a platform for performative works that combine contemporary dance, electronic music and generative AI.
+*Sonosphere* is a technical and artistic tool to realize performative works that combine electronic music, contemporary dance, new media, and artificial intelligence. "Sonosphere" brings together several performative principles: it functions as a digital instrument that can be filled with musicians' own sound material, it is an installation inspired by the [Laban Kinesphere](https://en.wikipedia.org/wiki/Space_Harmony) that can be played through body movements in space, it is a human-machine interface where the machine takes on an independent creative role through the use of generative AI, and it is an audiovisual medium in which sonic and visual elements form a unity.
+
+Sonosphere consists of several software elements. These are:
+
+- [AudioAnalysis](https://github.com/ewgnr/Sonosphere/tree/main/AudioAnalysis): A small Python script to compute audio descriptors for sound files.
+- [AudioClustering](https://github.com/ewgnr/Sonosphere/tree/main/AudioClustering): A Python-based tool for segmenting, clustering and exporting audio segments from sound files based on audio descriptors.
+- [AudioClusteringInteractive](https://github.com/ewgnr/Sonosphere/tree/main/AudioClusteringInteractive): Provides the same functionality as AudioClustering but operates in real-time. 
+- [AudioCLustering_v2](https://github.com/ewgnr/Sonosphere/tree/main/AudioClusteringV2): Provides the same functionality as AudioClustering but allows to combine multiple audio descriptors for clustering. 
+- [MocapPlayer](https://github.com/ewgnr/Sonosphere/tree/main/MocapPlayer): A Python-based tool to play motion capture recordings of solo performers.
+- [MotionClusteringInteractive](https://github.com/ewgnr/Sonosphere/tree/main/MotionClusteringInteractive): A Python-based tool for segmenting and clustering motion capture recordings based on motion descriptors in real-time. 
+- [MotionContinuation](https://github.com/ewgnr/Sonosphere/tree/main/MotionContinuation): A Python-based tool that employs a generative AI to predict the continuation of dance movements. 
+- [MotionTransformation](https://github.com/ewgnr/Sonosphere/tree/main/MotionTransformation): A Python-based tool that employs a generative AI to interpolate between and manipulate dance movements.
+- [SphericalSoundfilePlayer_Mac](https://github.com/ewgnr/Sonosphere/tree/main/SphericalSoundfilePlayer_v8_Mac): The MacOS version of a C++-based tool for processing and playing audio files that are distributed on the surface of a virtual sphere
+- [SphericalSoundfilePlayer_Windows](https://github.com/ewgnr/Sonosphere/tree/main/SphericalSoundfilePlayer_v8_Win): The Windows version of a C++-based tool for processing and playing audio files that are distributed on the surface of a virtual sphere
+
+
 
 ## Table of Contents
 

@@ -1,8 +1,8 @@
 # Sonosphere 
 
-*Sonosphere* is a technical and artistic tool to realize performative works that combine electronic music, contemporary dance, new media, and artificial intelligence. "Sonosphere" brings together several performative principles: it functions as a digital instrument that can be filled with musicians' own sound material, it is an installation inspired by the [Laban Kinesphere](https://en.wikipedia.org/wiki/Space_Harmony) that can be played through body movements in space, it is a human-machine interface where the machine takes on an independent creative role through the use of generative AI, and it is an audiovisual medium in which sonic and visual elements form a unity.
+*Sonosphere* is a technical and artistic tool to realize performative works that combine electronic music, contemporary dance, new media, and artificial intelligence. *Sonosphere* brings together several performative principles: it functions as a digital instrument that can be filled with musicians' own sound material, it is an installation inspired by the [Laban Kinesphere](https://en.wikipedia.org/wiki/Space_Harmony) that can be played through body movements in space, it is a human-machine interface where the machine takes on an independent creative role through the use of generative AI, and it is an audiovisual medium in which sonic and visual elements form a unity.
 
-Sonosphere consists of several software elements. These are:
+*Sonosphere* consists of several software elements. These are:
 
 - [AudioAnalysis](https://github.com/ewgnr/Sonosphere/tree/main/AudioAnalysis): A small Python script to compute audio descriptors for sound files.
 - [AudioClustering](https://github.com/ewgnr/Sonosphere/tree/main/AudioClustering): A Python-based tool for segmenting, clustering and exporting audio segments from sound files based on audio descriptors.
